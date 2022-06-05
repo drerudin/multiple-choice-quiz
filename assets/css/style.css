@@ -1,4 +1,7 @@
-
+#container {
+    display: block;
+    
+}
 
 header {
     display: flex;
