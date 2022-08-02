@@ -96,7 +96,6 @@ function correctAns() {
     }
     //move to the next question 
     index = index + 1;
-    // console.log("No.of q", quizQuestionList.length, "Current Q No: ", index);
     //run out of question then gameover 
     if (quizQuestionList.length === index) {
         alert("Game over");
